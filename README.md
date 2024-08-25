@@ -5,36 +5,36 @@ Welcome to the Introduction to Machine Learning course on Coursera! This course 
 ## Course Structure
 The course is structured into several modules, each focusing on different aspects of machine learning:
 
-Introduction to Machine Learning
+### Introduction to Machine Learning
 
-Overview of machine learning
+#### Overview of machine learning
 Key concepts and definitions
 Types of machine learning: supervised, unsupervised, and reinforcement learning
 Data Preprocessing
 
-Understanding data types and structures
+#### Understanding data types and structures
 Handling missing data
 Data normalization and standardization
 Feature selection and extraction
-Supervised Learning Algorithms
 
+#### Supervised Learning Algorithms
 Linear regression
 Logistic regression
 Decision trees and random forests
 Support vector machines (SVM)
 Model evaluation and validation
-Unsupervised Learning Algorithms
 
+#### Unsupervised Learning Algorithms
 Clustering techniques (K-means, hierarchical clustering)
 Dimensionality reduction (PCA, t-SNE)
 Anomaly detection
-Model Evaluation and Tuning
 
+#### Model Evaluation and Tuning
 Cross-validation techniques
 Hyperparameter tuning
 Model performance metrics (accuracy, precision, recall, F1 score)
-Introduction to Neural Networks
 
+#### Introduction to Neural Networks
 Basics of neural networks
 Introduction to deep learning
 Applications of neural networks
