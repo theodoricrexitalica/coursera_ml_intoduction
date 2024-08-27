@@ -1,6 +1,6 @@
 # Machine Learning Introduction - Coursera
 
-Welcome to the **Machine Learning Introduction** course on Coursera! This course provides a comprehensive introduction to the field of machine learning, covering fundamental concepts, algorithms, and practical applications.
+This course provides me with a comprehensive introduction to the field of machine learning, covering fundamental concepts, algorithms, and practical applications.
 
 ## Course Overview
 
